@@ -6,6 +6,7 @@ import Register from "../components/Register";
 import Our_Test_Series from "../components/Our_Test_Series";
 import Our_Plans from "../components/Our_Plans";
 import Slider1 from "../components/Slide1";
+import Physical_books from "../components/Physical_Books";
 
 
 const Home = () => {
@@ -20,6 +21,7 @@ const Home = () => {
       <Our_Test_Series />
       <Our_Plans />
       <Slider1 />
+      <Physical_books />
     </>
   );
 };
