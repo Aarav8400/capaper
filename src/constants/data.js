@@ -41,3 +41,26 @@ export const slide1 = [
       url: "https://www.catestseries.org/Images/WebBanner4.webp",
     },
   ];
+
+  export const trusteDData=[
+    {
+        youtubeLink:"https://youtu.be/PM725ahRbXM?si=-D6jqtdMfSFhPPRw",
+        imgUrl:"https://www.catestseries.org/Images/App/image-rajiv-kumar.jpg",
+        name:"Rajiv Kumar"
+    },
+    {
+        youtubeLink:"https://youtu.be/PM725ahRbXM?si=-D6jqtdMfSFhPPRw",
+        imgUrl:"https://www.catestseries.org/Images/App/image-apara-mehta.jpg",
+        name:"Apara Mehta"
+    },
+    {
+        youtubeLink:"https://youtu.be/PM725ahRbXM?si=-D6jqtdMfSFhPPRw",
+        imgUrl:"https://www.catestseries.org/Images/App/image-naveen-pandita.jpg",
+        name:"Nveen Pandita"
+    },
+    {
+        youtubeLink:"https://youtu.be/PM725ahRbXM?si=-D6jqtdMfSFhPPRw",
+        imgUrl:"https://www.catestseries.org/Images/App/image-vaishnavi-mahant.jpg",
+        name:"Vaishnavi Mahant"
+    },
+]
