@@ -39,8 +39,8 @@ export default function Physical_books() {
       </p>
       <div className="flex items-center justify-center gap-10 mt-5">
         <Physical_Card_1 imageURL={"https://www.catestseries.org/assets/images/lectures/ca-inter-fm-and-sm-mcq-question-bank-by-ca-test-series-book.webp"} Price={699} book_name={"CA Inter FM and SM MCQ Question Bank by CA Test Series - Book"}/>
-        <Physical_Card_1 imageURL={"https://www.catestseries.org/assets/images/lectures/ca-inter-fm-and-sm-mcq-question-bank-by-ca-test-series-book.webp"} Price={699} book_name={"CA Inter FM and SM MCQ Question Bank by CA Test Series - Book"}/>
-        <Physical_Card_1 imageURL={"https://www.catestseries.org/assets/images/lectures/ca-inter-fm-and-sm-mcq-question-bank-by-ca-test-series-book.webp"} Price={699} book_name={"CA Inter FM and SM MCQ Question Bank by CA Test Series - Book"}/>
+        <Physical_Card_1 imageURL={"https://www.catestseries.org/assets/images/lectures/ca-inter-cost-and-management-accounting-mcq-question-bank-by-ca-test-series-book.webp"} Price={699} book_name={"CA Inter FM and SM MCQ Question Bank by CA Test Series - Book"}/>
+        <Physical_Card_1 imageURL={"https://www.catestseries.org/assets/images/lectures/ca-inter-cost-and-fm-sm-mcq-question-bank-combo-by-ca-test-series.webp"} Price={699} book_name={"CA Inter FM and SM MCQ Question Bank by CA Test Series - Book"}/>
       </div>
     </>
   );
