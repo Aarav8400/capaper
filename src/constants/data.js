@@ -25,3 +25,19 @@ export const card_1_data=[
     },
 
 ]
+
+export const slide1 = [
+    {
+      url: "https://www.catestseries.org/Images/WebBanner5.webp",
+    },
+    {
+      url: "https://www.catestseries.org/Images/WebBanner1.webp",
+    },
+    {
+      url: "https://www.catestseries.org/Images/WebBanner7.webp",
+    },
+  
+    {
+      url: "https://www.catestseries.org/Images/WebBanner4.webp",
+    },
+  ];
