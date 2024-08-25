@@ -3,22 +3,18 @@ import { useState } from "react";
 import { BsChevronCompactLeft, BsChevronCompactRight } from "react-icons/bs";
 import { RxDotFilled } from "react-icons/rx";
 
-const Slider =  () => {
+const Slider1 =  () => {
   const [currentIndex, setCurrentIndex] = useState(0);
   
  const slides = [
     {
-      url: "https://www.catestseries.org/Images/WebBanner5.webp",
+      url: "/phone-slide1.png",
     },
     {
-      url: "https://www.catestseries.org/Images/WebBanner1.webp",
+      url: "/phone-slide2.png",
     },
     {
-      url: "https://www.catestseries.org/Images/WebBanner7.webp",
-    },
-  
-    {
-      url: "https://www.catestseries.org/Images/WebBanner4.webp",
+      url: "/phone-slide3.png",
     },
   ];
 
@@ -39,7 +35,7 @@ const Slider =  () => {
   };
 
   return (
-    <div className="max-w-full h-[450px] w-full m-auto  relative group pb-7">
+    <div className="max-w-full h-[650px] w-full m-auto  relative group pb-7">
       <div
         style={{ backgroundImage: `url(${slides[currentIndex].url})` }}
         className="w-full h-[95%] bg-center bg-cover duration-500"
@@ -67,4 +63,4 @@ const Slider =  () => {
   );
 };
 
-export default Slider;
+export default Slider1;
