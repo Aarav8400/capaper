@@ -10,6 +10,7 @@ import Physical_books from "../components/Physical_Books";
 import TrustedCustomer from "../components/TrustedCustomer";
 import VideoLectures from "../components/VideoLectures";
 import How_to from "../components/How_to";
+import Our_Features from "../components/Our_Features";
 
 const Home = () => {
   return (
@@ -27,6 +28,7 @@ const Home = () => {
       <Physical_books />
       <VideoLectures />
       <How_to/>
+      <Our_Features />
     </>
   );
 };
