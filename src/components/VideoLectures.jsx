@@ -19,7 +19,7 @@ const VideoLectures = () => {
         />
       </div>
       <div className="text-center">
-        <button className="bg-red-500 rounded-lg text-white">Buy Now</button>
+        <button className="transition-all duration-500 border-2 bg-red-500 rounded-sm border-red-500 hover:border-2 hover:bg-transparent hover:text-red-500 text-white px-3 py-2">Buy Now</button>
       </div>
     </div>
   );
