@@ -16,6 +16,7 @@ const TrustedCustomer = () => {
             name={customer.name}
             imgUrl={customer.imgUrl}
             youtubeLink={customer.youtubeLink}
+            className={customer.className}
           />
         ))}
       </div>

@@ -44,23 +44,29 @@ export const slide1 = [
 
   export const trusteDData=[
     {
-        youtubeLink:"https://youtu.be/PM725ahRbXM?si=-D6jqtdMfSFhPPRw",
+        youtubeLink:"https://www.youtube.com/embed/PM725ahRbXM",
         imgUrl:"https://www.catestseries.org/Images/App/image-rajiv-kumar.jpg",
-        name:"Rajiv Kumar"
+        name:"Rajiv Kumar",
+        className: "top-0 left-[20vw]"
     },
     {
-        youtubeLink:"https://youtu.be/PM725ahRbXM?si=-D6jqtdMfSFhPPRw",
+        youtubeLink:"https://www.youtube.com/embed/rz9uUITYK2g",
         imgUrl:"https://www.catestseries.org/Images/App/image-apara-mehta.jpg",
-        name:"Apara Mehta"
+        name:"Apara Mehta",
+        className: "top-0 left-[0vw]"
     },
     {
-        youtubeLink:"https://youtu.be/PM725ahRbXM?si=-D6jqtdMfSFhPPRw",
+        
+        youtubeLink:"https://www.youtube.com/embed/vtkdUC6TYqU",
         imgUrl:"https://www.catestseries.org/Images/App/image-naveen-pandita.jpg",
-        name:"Nveen Pandita"
+        name:"Nveen Pandita",
+        className: "top-0 left-[-18vw]"
     },
     {
-        youtubeLink:"https://youtu.be/PM725ahRbXM?si=-D6jqtdMfSFhPPRw",
+        
+        youtubeLink:"https://www.youtube.com/embed/i1yBdHKyYYE",
         imgUrl:"https://www.catestseries.org/Images/App/image-vaishnavi-mahant.jpg",
-        name:"Vaishnavi Mahant"
+        name:"Vaishnavi Mahant",
+        className: "top-0 left-[-36vw]"
     },
 ]
