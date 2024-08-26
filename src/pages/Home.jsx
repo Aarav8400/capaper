@@ -8,6 +8,7 @@ import Our_Plans from "../components/Our_Plans";
 import Slider1 from "../components/Slide1";
 import Physical_books from "../components/Physical_Books";
 import TrustedCustomer from "../components/TrustedCustomer";
+import VideoLectures from "../components/VideoLectures";
 
 const Home = () => {
   return (
@@ -23,6 +24,7 @@ const Home = () => {
       <Slider1 />
       <TrustedCustomer />
       <Physical_books />
+      <VideoLectures />
     </>
   );
 };
