@@ -9,6 +9,7 @@ import Slider1 from "../components/Slide1";
 import Physical_books from "../components/Physical_Books";
 import TrustedCustomer from "../components/TrustedCustomer";
 import VideoLectures from "../components/VideoLectures";
+import How_to from "../components/How_to";
 
 const Home = () => {
   return (
@@ -25,6 +26,7 @@ const Home = () => {
       <TrustedCustomer />
       <Physical_books />
       <VideoLectures />
+      <How_to/>
     </>
   );
 };
