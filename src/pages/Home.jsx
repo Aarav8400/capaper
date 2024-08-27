@@ -18,7 +18,6 @@ import In_The_News from "../components/In_The_News";
 const Home = () => {
   return (
     <>
-      <Header />
       <Slider />
       <div className="flex">
         <CA_Test_Card />
@@ -34,7 +33,6 @@ const Home = () => {
       <Our_Features />
       <Our_Teams/>
       <In_The_News/>
-      <Footer/>
     </>
   );
 };

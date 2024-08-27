@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.element_center{
+    @apply flex items-center justify-center
+}
