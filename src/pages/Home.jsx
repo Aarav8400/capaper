@@ -12,6 +12,7 @@ import VideoLectures from "../components/VideoLectures";
 import How_to from "../components/How_to";
 import Our_Features from "../components/Our_Features";
 import Our_Teams from "../components/Our_Teams";
+import Footer from "../components/Footer";
 
 const Home = () => {
   return (
@@ -31,6 +32,7 @@ const Home = () => {
       <How_to/>
       <Our_Features />
       <Our_Teams/>
+      <Footer/>
     </>
   );
 };
