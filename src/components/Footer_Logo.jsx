@@ -2,7 +2,7 @@ import React from "react";
 
 const Footer_Logo = () => {
   return (
-    <div className="p-0 w-auto flex flex-col items-center justify-center">
+    <div className="p-10 w-auto flex flex-col items-center justify-center">
       <img src="/logo.png" alt="" width={200} />
       <p className="text-gray-400 mt-10 w-[400px]">
         CA Online Test Series exclusively for Chartered Accountancy course. We

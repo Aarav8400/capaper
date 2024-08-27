@@ -2,9 +2,9 @@ import React from 'react'
 
 const Footer_Middle = () => {
   return (
-    <div className='p-10 flex gap-5 flex-wrap'>
+    <div className='p-10 flex gap-20 flex-wrap w-60vw'>
      
-        <div className='w-[200px]'>
+        <div className='w-auto'>
             <h1 className='font-semibold text-2xl text-white'>CA</h1>
             <hr className='border-red-400 my-2 border-[1.5px] w-14'/>
             <ul className='text-gray-400 '>
@@ -14,7 +14,7 @@ const Footer_Middle = () => {
                 <li><a href="#">dddd</a></li>
             </ul>
         </div>
-        <div className='w-[200px]'>
+        <div className='w-auto'>
             <h1 className='font-semibold text-2xl text-white'>CA</h1>
             <hr className='border-red-400 my-2 border-[1.5px] w-14'/>
             <ul className='text-gray-400 '>
@@ -24,7 +24,7 @@ const Footer_Middle = () => {
                 <li><a href="#">dddd</a></li>
             </ul>
         </div>
-        <div className='w-[200px]'>
+        <div className='w-auto'>
             <h1 className='font-semibold text-2xl text-white'>CA</h1>
             <hr className='border-red-400 my-2 border-[1.5px] w-14'/>
             <ul className='text-gray-400 '>
@@ -34,7 +34,7 @@ const Footer_Middle = () => {
                 <li><a href="#">dddd</a></li>
             </ul>
         </div>
-        <div className='w-[200px]'>
+        <div className='w-auto'>
             <h1 className='font-semibold text-2xl text-white'>CA</h1>
             <hr className='border-red-400 my-2 border-[1.5px] w-14'/>
             <ul className='text-gray-400 '>
@@ -44,7 +44,7 @@ const Footer_Middle = () => {
                 <li><a href="#">dddd</a></li>
             </ul>
         </div>
-        <div className='w-[200px]'>
+        <div className='w-auto'>
             <h1 className='font-semibold text-2xl text-white'>CA</h1>
             <hr className='border-red-400 my-2 border-[1.5px] w-14'/>
             <ul className='text-gray-400 '>
@@ -54,7 +54,7 @@ const Footer_Middle = () => {
                 <li><a href="#">dddd</a></li>
             </ul>
         </div>
-        <div className='w-[200px]'>
+        <div className='w-auto'>
             <h1 className='font-semibold text-2xl text-white'>CA</h1>
             <hr className='border-red-400 my-2 border-[1.5px] w-14'/>
             <ul className='text-gray-400 '>
